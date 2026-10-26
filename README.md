@@ -1,6 +1,6 @@
 # ⚡ Smart PDF Suite - All-in-One Offline PDF Tools by Atwitraaa
 
-Aplikasi Desktop Windows native yang me-reverse engineer seluruh fungsionalitas populer dari **iLovePDF** dan menjadikannya **100% Offline**, cepat, tanpa batas ukuran file, dan tanpa perlu upload berkas ke server pihak ketiga (privasi terjaga penuh).
+Aplikasi Desktop Windows native yang me-reverse engineer seluruh fungsionalitas populer dari **platform PDF berbayar** dan menjadikannya **100% Offline**, cepat, tanpa batas ukuran file, dan tanpa perlu upload berkas ke server pihak ketiga (privasi terjaga penuh).
 
 ---
 
