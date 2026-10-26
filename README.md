@@ -4,7 +4,7 @@ Aplikasi Desktop Windows native yang me-reverse engineer seluruh fungsionalitas 
 
 ---
 
-## 🛠️ Fitur & Modul Lengkap (Setara iLovePDF)
+## 🛠️ Fitur & Modul Lengkap
 
 ### 1. 🏷️ Smart Renamer (Fitur Khusus Berbasis Konten)
 - Ekstraksi otomatis nama siswa, kelas, NISN, atau teks label kustom dari dalam dokumen PDF.
